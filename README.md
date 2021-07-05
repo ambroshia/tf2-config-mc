@@ -1,8 +1,8 @@
 # tf2-config-mc (mastercomfig)
 
-my configuration files for Team Fortress 2. Contains various files, scripts, as well as visual and audio modifications
+My configuration files for Team Fortress 2. Contains various files, scripts, as well as visual and audio modifications.
 
-This version is compatible with [mastercomfig](https://mastercomfig.com/).
+This version is compatible with [mastercomfig](https://mastercomfig.com/). For a version that does not use mastercomfig, see [tf2-config](https://github.com/ambroshia/tf2-config).
 
 ## usage instructions
 
